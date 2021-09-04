@@ -1,0 +1,19 @@
+h1{
+      text-align: center;
+      text-decoration: underline;
+      background-color: brown;
+     
+}
+p{
+      color: blue;
+      font-size: larger;
+      text-align: center;
+}
+table{
+      text-align: center;
+      text-decoration: dotted;
+      background-color: aquamarine;
+     
+     padding-block-start: 70px;
+
+}
